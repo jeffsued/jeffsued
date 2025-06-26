@@ -8,7 +8,7 @@
 ### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Sued-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seulink)  
-[![Gmail](https://img.shields.io/badge/Gmail-jefferson.sued@gmail.com-red?style=flat&logo=gmail)](mailto:jefferson.sued@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dev.jeffersonsued@gmail.com-red?style=flat&logo=gmail)](mailto:jefferson.sued@gmail.com)
 
 ---
 
