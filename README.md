@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jefferson Sued
 
-<!--
-**jeffsued/jeffsued** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Skills:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Sued-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seulink)  
+[![Gmail](https://img.shields.io/badge/Gmail-jefferson.sued@gmail.com-red?style=flat&logo=gmail)](mailto:jefferson.sued@gmail.com)
+
+---
+
+### 📊 Meu status no GitHub
+
+**Linguagens mais usadas**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonSued&layout=compact&theme=dracula)
+
+---
+
+<img src="https://raw.githubusercontent.com/savio-cartaxo/savio-cartaxo/main/imagens/laptop-coding.png" alt="Laptop Coding" width="400"/>
