@@ -25,3 +25,6 @@ Buscando desenvolver habilidades técnicas e de trabalho em equipe para contribu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Sued-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeffsued/)
 
 [![Email](https://img.shields.io/badge/Gmail-dev.jeffersonsued@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dev.jeffersonsued@gmail.com)
+
+## 📊 GitHub Stats:
+![GitHub Streak](https://streak-stats.demolab.com/?user=jeffsued&theme=bear&background=000&border=30A3DC&dates=FFF)
