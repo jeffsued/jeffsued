@@ -1,6 +1,6 @@
 # Jefferson Sued
 
-Computer Science student in training since 2025, focused on developing mobile applications for Android and iOS. Learning and practicing with the Flutter framework and the Dart programming language to create modern and responsive interfaces. Aiming to develop technical and teamwork skills to contribute to high-quality software projects.
+Computer Science student in training since 2024, focused on developing mobile applications for Android and iOS. Learning and practicing with the Flutter framework and the Dart programming language to create modern and responsive interfaces. Aiming to develop technical and teamwork skills to contribute to high-quality software projects.
 
 ## 🧠 Skills
 
